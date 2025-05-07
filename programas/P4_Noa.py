@@ -1,4 +1,4 @@
-"""Noa Buceta Blnaco"""
+"""Noa Buceta Blanco"""
 from microbit import *
 
 def mover_servo(angulo):
